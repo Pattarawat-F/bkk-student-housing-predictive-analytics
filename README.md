@@ -1,4 +1,5 @@
 #  Automated Rental Pricing Optimization Platform
+![Dashboard Preview](App_pic.png)![Dashboard Preview](App_pic2.png)
 An Enterprise Data Science Platform for Automated Property Valuation in the Bangkok Metropolitan Area using Random Forest.
 
 ---
